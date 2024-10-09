@@ -18,7 +18,7 @@ To install and use `sysopctl`, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Pritamstudent/sysopctl.git
+   git clone https://github.com/Kanak2025/sysopctl.git
    cd sysopctl
    ```
 

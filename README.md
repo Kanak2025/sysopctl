@@ -41,7 +41,9 @@ Here’s how to use `sysopctl`:
    ```bash
    sysopctl --help
    ```
+   ![help](https://github.com/user-attachments/assets/92cb6bdc-d8ff-4318-8ece-d73a9b76f7ea)
 
+   
 2. **Version**: Display the current version of `sysopctl`:
    ```bash
    sysopctl --version
